@@ -39,7 +39,7 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: |+
-          BO BOB OB. OBO BOOB
+          mmm
 
         actions:
           - label: Learn More
