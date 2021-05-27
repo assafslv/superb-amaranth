@@ -26,7 +26,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: sdgsdfsdf
+    subtitle: What people say about us
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
